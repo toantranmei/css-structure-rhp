@@ -1,4 +1,6 @@
-![Demo Webdesign from this package](https://github.com/trantoan960/css-structure-rhp/blob/develop/build/images/bg.PNG)
+<img
+  src="https://github.com/trantoan960/css-structure-rhp/blob/develop/build/images/bg.PNG" alt="Normalize Logo"
+  width="100%" height="auto">
 
 
 
