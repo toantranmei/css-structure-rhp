@@ -1,0 +1,35 @@
+{
+  "name": "css-structure-rhp",
+  "version": "1.0.0",
+  "description": "This is a product for girls of RHP Team",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/trantoan960/css-structure-rhp.git"
+  },
+  "keywords": [
+    "css",
+    "structure"
+  ],
+  "author": "sky albert",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/trantoan960/css-structure-rhp/issues"
+  },
+  "homepage": "https://github.com/trantoan960/css-structure-rhp#readme",
+  "devDependencies": {
+    "browser-sync": "^2.26.3",
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^6.0.0",
+    "gulp-clean-css": "^3.10.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-cssmin": "^0.2.0",
+    "gulp-minify": "^3.1.0",
+    "gulp-rename": "^1.4.0",
+    "gulp-sass": "^4.0.2",
+    "gulp-sourcemaps": "^2.6.4"
+  }
+}
